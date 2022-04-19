@@ -1,0 +1,7 @@
+{
+  "name": "ionic-accordion-datetime-bug",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
